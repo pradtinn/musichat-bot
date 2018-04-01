@@ -1,0 +1,11 @@
+{
+    "name": "musichat-bot",
+    "version": "1.0.0",
+    "description": "Discord bot that can play Youtube links uploaded in channels",
+    "main": "bot.js",
+    "author": "Prad",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "winston": "^2.4.1"
+    }
+}
